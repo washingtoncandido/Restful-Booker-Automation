@@ -1,4 +1,7 @@
 package org.example.auth.dto;
 
-public class AuthRequest {
+public record AuthRequest(
+        String username,
+        String password
+) {
 }
