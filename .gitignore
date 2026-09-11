@@ -45,3 +45,4 @@ target/
 src/test/resources/application-tst.properties
 src/test/resources/application-hml.properties
 src/test/resources/application-prd.properties
+src/main/resources/application-prd.properties
